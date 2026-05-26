@@ -1,0 +1,6 @@
+{
+  "name": "Kart-Rider Anime Online",
+  "description": "A 3D anime-style multiplayer kart racing game with real-time room matchmaking, synchronized multiplayer action, speed/item modes, and rich motion physics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
